@@ -314,7 +314,7 @@ section{
     content: "";
     position: absolute;
     inset: 20px;
-    background: #8ebee7;
+    background: #f1c4c4;
     border-radius: 50%;
     z-index: 1;
 }
